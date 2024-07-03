@@ -1,5 +1,4 @@
-var config = {
-    
+var config = {    
     texts: [
         "送给我",      
         "心爱的小可爱",  
